@@ -86,6 +86,6 @@ tags:
 >
 > 能重头享受爱你
 
-![我们万岁]()
+![我们万岁](https://cdn.jsdelivr.net/gh/XMW-and-LHY/storage/images/20241206231216507.jpg)
 
 愿以后每一天，身边都是你
