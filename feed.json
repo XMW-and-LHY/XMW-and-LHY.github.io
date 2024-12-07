@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "我们的小站",
+    "home_page_url": "https://xmw-and-lhy.com/",
+    "feed_url": "https://xmw-and-lhy.com/feed.json",
+    "description": "特别鸣谢你制造 更欢乐的我",
+    "icon": "https://cdn.jsdelivr.net/gh/XMW-and-LHY/storage/images/avatar.jpg",
+    "author": {
+        "name": "傻狗和宝宝",
+        "url": "https://valaxy.site"
+    },
+    "items": [
+        {
+            "id": "",
+            "content_html": "<p>第一次和LHY一起玩Minecraft，我们建了个树屋，不过此时的LHY还是一个小辣鸡[/笑]</p>\n<!--more-->\n<p>放一张合影咯~</p>\n<p>![合影](<a href=\"https://cdn.jsdelivr.n\">https://cdn.jsdelivr.n</a></p>\n<br/><p>访问 <a href=\"https://xmw-and-lhy.com/posts/first-minecraft\" target=\"_blank\">https://xmw-and-lhy.com/posts/first-minecraft</a> 阅读全文。</p>",
+            "url": "https://xmw-and-lhy.com/posts/first-minecraft",
+            "title": "第一次一起玩Minecraft",
+            "date_modified": "2024-10-19T00:00:00.000Z",
+            "date_published": "2024-12-07T08:44:25.881Z",
+            "author": {
+                "name": "傻狗和宝宝",
+                "url": "https://valaxy.site"
+            }
+        },
+        {
+            "id": "",
+            "content_html": "<p>前一天晚上，因为一些原因有点烦恼，LHY也有点烦恼，跟她打了一个很长的电话...</p>\n<p>2024年10月24日，晚上，在思索很久后，终于，我说出了那句话</p>\n<p>25日凌晨，我们，就这样在一起了...</p>\n<p>&lt;!</p>\n<br/><p>访问 <a href=\"https://xmw-and-lhy.com/posts/that-day\" target=\"_blank\">https://xmw-and-lhy.com/posts/that-day</a> 阅读全文。</p>",
+            "url": "https://xmw-and-lhy.com/posts/that-day",
+            "title": "那一天...",
+            "date_modified": "2024-10-25T00:00:00.000Z",
+            "date_published": "2024-12-07T08:44:25.881Z",
+            "author": {
+                "name": "傻狗和宝宝",
+                "url": "https://valaxy.site"
+            }
+        }
+    ]
+}

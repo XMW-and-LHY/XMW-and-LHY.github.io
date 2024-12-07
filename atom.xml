@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://xmw-and-lhy.com/</id>
+    <title>我们的小站</title>
+    <updated>2024-12-07T08:44:54.835Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <author>
+        <name>傻狗和宝宝</name>
+        <email>i@valaxy.site</email>
+        <uri>https://valaxy.site</uri>
+    </author>
+    <link rel="alternate" href="https://xmw-and-lhy.com/"/>
+    <link rel="self" href="https://xmw-and-lhy.com/atom.xml"/>
+    <subtitle>特别鸣谢你制造 更欢乐的我</subtitle>
+    <logo>https://cdn.jsdelivr.net/gh/XMW-and-LHY/storage/images/avatar.jpg</logo>
+    <icon>https://xmw-and-lhy.com/favicon.svg</icon>
+    <rights>CC BY-NC-SA 4.0 2024 © 傻狗和宝宝</rights>
+    <entry>
+        <title type="html"><![CDATA[第一次一起玩Minecraft]]></title>
+        <id>https://xmw-and-lhy.com/posts/first-minecraft</id>
+        <link href="https://xmw-and-lhy.com/posts/first-minecraft"/>
+        <updated>2024-10-19T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>第一次和LHY一起玩Minecraft，我们建了个树屋，不过此时的LHY还是一个小辣鸡[/笑]</p>
+<!--more-->
+<p>放一张合影咯~</p>
+<p>![合影](<a href="https://cdn.jsdelivr.n">https://cdn.jsdelivr.n</a></p>
+<br/><p>访问 <a href="https://xmw-and-lhy.com/posts/first-minecraft" target="_blank">https://xmw-and-lhy.com/posts/first-minecraft</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>傻狗和宝宝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-12-07T08:44:25.881Z</published>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[那一天...]]></title>
+        <id>https://xmw-and-lhy.com/posts/that-day</id>
+        <link href="https://xmw-and-lhy.com/posts/that-day"/>
+        <updated>2024-10-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[<p>前一天晚上，因为一些原因有点烦恼，LHY也有点烦恼，跟她打了一个很长的电话...</p>
+<p>2024年10月24日，晚上，在思索很久后，终于，我说出了那句话</p>
+<p>25日凌晨，我们，就这样在一起了...</p>
+<p>&lt;!</p>
+<br/><p>访问 <a href="https://xmw-and-lhy.com/posts/that-day" target="_blank">https://xmw-and-lhy.com/posts/that-day</a> 阅读全文。</p>]]></content>
+        <author>
+            <name>傻狗和宝宝</name>
+            <email>i@valaxy.site</email>
+            <uri>https://valaxy.site</uri>
+        </author>
+        <published>2024-12-07T08:44:25.881Z</published>
+    </entry>
+</feed>

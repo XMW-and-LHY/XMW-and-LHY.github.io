@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xmw-and-lhy.com/sitemap.xml
