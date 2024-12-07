@@ -50,10 +50,6 @@ export default defineSiteConfig({
 
   license: {
     enabled: false
-  },
-
-  cdn: {
-    prefix: 'https://cdn.jsdelivr.net/'
   }
 
 })
